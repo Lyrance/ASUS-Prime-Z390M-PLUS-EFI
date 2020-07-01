@@ -52,7 +52,7 @@ Wi-Fi网速只有2-3M/s
 * https://blog.daliansky.net/Tutorial-Using-Hackintool-to-open-the-correct-pose-of-the-8th-generation-core-display-HDMI-or-DVI-output.html
 * https://blog.daliansky.net/Lenovo-Xiaoxin-PRO-13-2019-and-macOS-Catalina-Installation-Tutorial.html#more
 
-非常非常感谢“黑果小兵技术交流群3”里面的大佬们帮助我解决了许多问题
+非常非常感谢`黑果小兵技术交流群3`里面的大佬们帮助我解决了许多问题
 
 非常非常感谢[TubeFox](http://gofook.com/)陪我折腾了好几天，还借给我移动硬盘以及HDMI诱骗器等
 
