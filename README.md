@@ -54,6 +54,6 @@ Wi-Fi网速只有2-3M/s
 
 非常非常感谢`黑果小兵技术交流群3`里面的大佬们帮助我解决了许多问题
 
-非常非常感谢[TubeFox](https://github.com/gotfull)陪我折腾了好几天，还借给我移动硬盘以及HDMI诱骗器等
+非常非常感谢[TubeFox](https://github.com/Tube-fox)陪我折腾了好几天，还借给我移动硬盘以及HDMI诱骗器等
 
 非常非常感谢大不溜·宋把5700xt借给我，我才能进入系统打上主板HDMI输出的补丁
