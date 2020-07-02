@@ -43,6 +43,8 @@ Wi-Fi网速只有2-3M/s
 
 [具体安装教程](./TUTORIAL.md)
 
+[我的安装过程](http://www.lyrance.com/?p=228)
+
 ---
 
 #### 参考资料
